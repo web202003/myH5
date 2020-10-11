@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>李白的诗</title>
-</head>
-<body>
-    <img src="./001Basics/imges/0.jpg>
-    <h1>望庐山瀑布</h>
+    <head>
+        <meta charset="UTF-8">
+        <title>李白的诗</title>
+    </head>
+    <body>
+        <img src="./imges/0.jpg" / >
+        <h1>望庐山瀑布</h1>
         <p>日照香炉生紫烟</p>
         <p>疑是银河落九天</p>
-</body>
+    </body>
 </html>
